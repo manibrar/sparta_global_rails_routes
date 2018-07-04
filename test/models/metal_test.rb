@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class MetalsControllerTest < ActionDispatch::IntegrationTest
+class MetalTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

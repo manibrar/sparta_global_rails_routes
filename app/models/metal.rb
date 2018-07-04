@@ -1,0 +1,5 @@
+class Metal < ApplicationRecord
+
+  
+
+end
